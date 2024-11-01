@@ -1,0 +1,14 @@
+.cubilis-fastbooker-container {
+  display: flex;
+  justify-content: stretch;
+}
+
+.cubilis-fastbooker-color {
+  flex: 1 1 auto;
+  display: block !important;
+}
+
+.cubilis-fastbooker .sp-replacer {
+  flex: 0 0 auto;
+  float: right;
+}

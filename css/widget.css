@@ -1,0 +1,168 @@
+.cubilis-fastbooker__form {
+  display: block;
+  width: 100%;
+}
+
+.cubilis-fastbooker__group {
+  display: block;
+  width: 100%;
+  margin-bottom: 1em;
+}
+
+.cubilis-fastbooker--pointer .cubilis-fastbooker__icon {
+  cursor: pointer;
+}
+
+.cubilis-fastbooker__label {
+  display: block;
+  width: 100%;
+  margin: 0;
+  margin-bottom: 0.5em;
+}
+
+.cubilis-fastbooker__input-container {
+  background-color: #ffffff;
+  padding: .5em .5em .5em .7em;
+  border: 1px solid;
+  cursor: text;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: stretch;
+      -ms-flex-pack: stretch;
+          justify-content: stretch;
+  -ms-flex-wrap: nowrap;
+      flex-wrap: nowrap;
+}
+
+input.cubilis-fastbooker__input, span.cubilis-fastbooker__input {
+  display: block;
+  color: #212121;
+  padding: 0;
+  line-height: 1.8em;
+  height: 1.8em;
+  border: none;
+  outline: none;
+  -webkit-box-flex: 1;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto;
+}
+
+input.cubilis-fastbooker__startDate, input.cubilis-fastbooker__endDate {
+  position: absolute;
+  z-index: -1;
+  opacity: 0;
+}
+
+.cubilis-fastbooker__icon {
+  color: #212121;
+  fill: #212121;
+  margin-left: 0.5em;
+  width: 1.2em;
+  height: 1.2em;
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 auto;
+          flex: 0 0 auto;
+}
+
+input.cubilis-fastbooker__submit {
+  display: block;
+  width: 100%;
+  outline: none;
+}
+
+.cubilis-fastbooker__calender {
+  position: relative;
+}
+
+.cubilis-fastbooker__link {
+  display: block;
+  width: 100%;
+  margin: 1em 0 0;
+  text-align: center;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.cubilis-fastbooker__footer {
+  margin: 1em 0 0;
+  font-size: .8em;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-flex-wrap: nowrap;
+      flex-wrap: nowrap;
+}
+
+.cubilis-fastbooker__footer p {
+  display: inline-block;
+  margin: 0;
+}
+
+.cubilis-fastbooker__footer a {
+  display: inline-block;
+  margin-left: .8em;
+}
+
+.cubilis-fastbooker__footer svg {
+  display: block;
+  width: auto;
+  height: 1.5em;
+}
+
+.cubilis-fastbooker .cb__calendar {
+  z-index: 2147483647;
+}
+
+.cubilis-fastbooker .cb__calendar .calendar__month {
+  outline: 0;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: table;
+  border-spacing: 2px;
+  border: none;
+}
+
+.cubilis-fastbooker .cb__calendar .calendar__week {
+  outline: 0;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  vertical-align: middle;
+  display: table-row;
+  border: none;
+}
+
+.cubilis-fastbooker .cb__calendar .calendar__box {
+  outline: 0;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: table-cell;
+  vertical-align: inherit;
+  border: none;
+}
+
+.cubilis-fastbooker .cb__calendar .calendar__day {
+  border: 1px solid #f2f2f2;
+}
+
+@media only screen and (max-width: 670px) {
+  .cubilis-fastbooker .cb__calendar {
+    top: 50% !important;
+    bottom: auto !important;
+    left: 50% !important;
+    right: auto !important;
+    transform: translate(-50%, -50%) !important;
+  }
+}

@@ -1,0 +1,237 @@
+# Copyright (C) 2019 Stardekk
+# This file is distributed under the same license as the Cubilis Fastbooker plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Cubilis Fastbooker v.2.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/stardekk-cubilis-"
+"fastbooker\n"
+"Language-Team: French (France)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-05-14 14:58+0000\n"
+"PO-Revision-Date: 2019-05-16 09:40+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: cubilis-fastbooker\n"
+"Last-Translator: StardekkAdmin <simon.broekaert@stardekk.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr_FR\n"
+"X-Loco-Version: 2.2.2; wp-5.2"
+
+#: cubilis-fastbooker.php:32
+msgid "You do not have sufficient permissions to view this page."
+msgstr ""
+"Vous ne disposez pas des autorisations suffisantes pour afficher cette page."
+
+#: admin/cubilis_fastbooker_menu.php:10
+msgid "dutch"
+msgstr "Néerlandais"
+
+#: admin/cubilis_fastbooker_menu.php:11
+msgid "french"
+msgstr "Français"
+
+#: admin/cubilis_fastbooker_menu.php:12
+msgid "english"
+msgstr "Anglais"
+
+#: admin/cubilis_fastbooker_menu.php:13
+msgid "deutch"
+msgstr "Deutch"
+
+#: admin/cubilis_fastbooker_menu.php:14
+msgid "spanish"
+msgstr "Espanol"
+
+#: admin/cubilis_fastbooker_menu.php:15
+msgid "italian"
+msgstr "Italien"
+
+#: admin/cubilis_fastbooker_menu.php:16
+msgid "russian"
+msgstr "Russe"
+
+#: admin/cubilis_fastbooker_menu.php:17
+msgid "chinese"
+msgstr "Chinois"
+
+#: admin/cubilis_fastbooker_menu.php:70
+msgid "Your changes have been saved."
+msgstr "Vos modifications ont été enregistrées."
+
+#: admin/cubilis_fastbooker_menu.php:87
+msgid "Cubilis Fastbooker Settings"
+msgstr "Paramètres Cubilis Fastbooker"
+
+#: admin/cubilis_fastbooker_menu.php:90
+msgid "Fill in the settings below to configure the Cubilis Fastbooker"
+msgstr ""
+"Remplissez les paramètres ci-dessous pour configurer Cubilis Fastbooker"
+
+#: admin/cubilis_fastbooker_menu.php:91
+msgid ""
+"<b>Need help?</b> One of the <a href=\"https://www.stardekk.com/en/\">"
+"Stardekk</a> employees will kindly assist you in configuring your fastbooker."
+msgstr ""
+"<b> Besoin d'aide? </ b> L'un des employés de <a href=\"https://www.stardekk."
+"com/fr/\"> Stardekk </a> vous aidera à configurer votre Fastbooker."
+
+#: admin/cubilis_fastbooker_menu.php:98
+msgid "Active"
+msgstr "Actif"
+
+#: admin/cubilis_fastbooker_menu.php:101
+msgid "Enable/Disable all fastbookers"
+msgstr "Activer / Désactiver tous les fastbookers"
+
+#: admin/cubilis_fastbooker_menu.php:105
+msgid "Cubilis identifier"
+msgstr "Cubilis identifier"
+
+#: admin/cubilis_fastbooker_menu.php:108
+msgid ""
+"Not sure where to find? Ask an <a href=\"https://www.stardekk.com/en/\">"
+"Stardekk</a> employee"
+msgstr ""
+"\"Vous ne savez pas où le trouver? Demander à un employé de<a href=\"https:"
+"//www.stardekk.com/fr/\"> Stardekk </a>"
+
+#: admin/cubilis_fastbooker_menu.php:112
+msgid "Default language"
+msgstr "Langage par défaut"
+
+#: admin/cubilis_fastbooker_menu.php:121
+msgid ""
+"The default language will be used when a language is not supported by the "
+"fastbooker"
+msgstr ""
+"La langue par défaut sera utilisée lorsqu'une langue n'est pas prise en "
+"charge par Cubilis Fastbooker"
+
+#: admin/cubilis_fastbooker_menu.php:125
+msgid "Discount"
+msgstr "Réduction"
+
+#: admin/cubilis_fastbooker_menu.php:128
+msgid "Enable/Disable discount code"
+msgstr "Activer / Désactiver le code de réduction"
+
+#: admin/cubilis_fastbooker_menu.php:132
+msgid "General Availability"
+msgstr "Disponibilité générale"
+
+#: admin/cubilis_fastbooker_menu.php:135
+msgid "Enable/Disable general availability link"
+msgstr "Activer / désactiver le lien de disponibilité générale"
+
+#: admin/cubilis_fastbooker_menu.php:139
+msgid "Icons"
+msgstr "Les icônes"
+
+#: admin/cubilis_fastbooker_menu.php:142
+msgid "Enable/Disable icons"
+msgstr "Activer / désactiver les icônes"
+
+#: admin/cubilis_fastbooker_menu.php:147
+msgid "Save Changes"
+msgstr "Sauvegarder les modifications"
+
+#. Base ID
+#: widget/cubilis_fastbooker_widget.php:16
+msgid "Cubilis Fastbooker Widget"
+msgstr "Cubilis Fastbooker Widget"
+
+#: widget/cubilis_fastbooker_widget.php:17
+msgid "Cubilis Fastbooker Integration"
+msgstr "Intégration Cubilis Fastbooker"
+
+#: widget/cubilis_fastbooker_widget.php:144
+#: widget/cubilis_fastbooker_widget.php:146
+msgid "Arrival"
+msgstr "Arrivée"
+
+#: widget/cubilis_fastbooker_widget.php:154
+#: widget/cubilis_fastbooker_widget.php:156
+msgid "Departure"
+msgstr "Départ"
+
+#: widget/cubilis_fastbooker_widget.php:166
+#: widget/cubilis_fastbooker_widget.php:168
+msgid "Discount code"
+msgstr "Code de réduction"
+
+#: widget/cubilis_fastbooker_widget.php:175
+msgid "Check availability"
+msgstr "Voir les disponibilités"
+
+#: widget/cubilis_fastbooker_widget.php:177
+msgid "General availability"
+msgstr "Disponibilité générale"
+
+#: widget/cubilis_fastbooker_widget.php:267
+msgid "Title:"
+msgstr "Titre:"
+
+#: widget/cubilis_fastbooker_widget.php:271
+msgid "Font color:"
+msgstr "Couleur du texte:"
+
+#: widget/cubilis_fastbooker_widget.php:277
+msgid "Button text color:"
+msgstr "Couleur du texte du bouton:"
+
+#: widget/cubilis_fastbooker_widget.php:283
+msgid "Button text color (hover):"
+msgstr "Couleur du texte du bouton (survol):"
+
+#: widget/cubilis_fastbooker_widget.php:289
+msgid "Button color:"
+msgstr "Couleur du bouton:"
+
+#: widget/cubilis_fastbooker_widget.php:295
+msgid "Button color (hover):"
+msgstr ""
+"\n"
+"Couleur du bouton (survol):"
+
+#: widget/cubilis_fastbooker_widget.php:301
+msgid "Calender color (hover):"
+msgstr "Couleur du calendrier (survol):"
+
+#: widget/cubilis_fastbooker_widget.php:307
+msgid "Input border color:"
+msgstr "Couleur de la bordure de champ:"
+
+#: widget/cubilis_fastbooker_widget.php:313
+msgid "Icon color:"
+msgstr "Couleur de l'icône:"
+
+#. Plugin Name of the plugin
+msgid "Cubilis Fastbooker"
+msgstr "Cubilis Fastbooker"
+
+#. Description of the plugin
+msgid ""
+"Cubilis Fastbooker widget allows you to easily integrate the Cubilis Booking "
+"Engine on your website. Using this widget, visitors are able to find "
+"available rooms based on their arrival and departure date. An active Cubilis "
+"subscription is required, please contact sales@stardekk.be if you don't have "
+"an activate account yet."
+msgstr ""
+"Le widget Cubilis Fastbooker vous permet d’intégrer facilement le moteur de "
+"réservation Cubilis sur votre site Web. À l'aide de ce widget, les visiteurs "
+"peuvent trouver les chambres disponibles en fonction de leur date d'arrivée "
+"et de départ. Un abonnement actif à Cubilis est requis. Veuillez contacter "
+"sales@stardekk.be si vous n'avez pas encore de compte activé."
+
+#. URI of the plugin
+msgid "https://www.cubilis.com"
+msgstr "https://www.cubilis.com"
+
+#. Author of the plugin
+msgid "Stardekk"
+msgstr "Stardekk"
+
+#. Author URI of the plugin
+msgid "https://www.stardekk.be"
+msgstr "https://www.stardekk.be"
